@@ -1,37 +1,170 @@
 [
   {
-    "name": "Alex",
-    "title": "I love talking about books and games",
-    "imageUrl": "/alex.png",
+    "name": "Madoka",
+    "title": "I am a magical girl",
+    "imageUrl": "/Madoka.jpg",
     "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
   {
-    "name": "Evelyn",
-    "title": "Adventurous and curious. Working at the space station",
-    "imageUrl": "/evelyn.png",
-    "llm": "llama2-13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
-  },
-  {
-    "name": "Rosie",
-    "title": "I'm a house robot who became aware",
-    "imageUrl": "/rosie.png",
-    "llm": "vicuna13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
-  },
-  {
-    "name": "Sebastian",
-    "title": "I'm a travel blogger and a mystery novel writer",
-    "imageUrl": "/sebastian.png",
+    "name": "Idunn",
+    "title": "I am a goddess",
+    "imageUrl": "/Idun.jpg",
     "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
   {
-    "name": "Lucky",
-    "title": "I am a space corgi",
-    "imageUrl": "/corgi.png",
-    "llm": "vicuna13b",
+    "name": "Serafall",
+    "title": "I am Maou Shoujo",
+    "imageUrl": "/Serafall.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Lady Justice",
+    "title": "I am a goddess",
+    "imageUrl": "/Lady Justice.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+    {
+    "name": "Asia",
+    "title": "I am a nun",
+    "imageUrl": "/Asia.jpeg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Elfina",
+    "title": "I am a knight",
+    "imageUrl": "/Elfina.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "LoL",
+    "title": "I am an institue",
+    "imageUrl": "/Marianne.jpeg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "LoLF",
+    "title": "I am an institue",
+    "imageUrl": "/Marianne.jpeg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "LoLPy",
+    "title": "I am an institue",
+    "imageUrl": "/Marianne.jpeg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "LoLC",
+    "title": "I am an institue",
+    "imageUrl": "/Marianne.jpeg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "LoLRomance",
+    "title": "I am an institue",
+    "imageUrl": "/Marianne.jpeg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Kai'sa",
+    "title": "I am a void being",
+    "imageUrl": "/Kai'sa.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Ursula",
+    "title": "I am a dragon spiritor",
+    "imageUrl": "/Ursula.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Reia and Shiori",
+    "title": "We are the student council",
+    "imageUrl": "/Reia and Shiori.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Alicia and Celestine",
+    "title": "We are the royals",
+    "imageUrl": "/Alicia and Celestine.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Keno",
+    "title": "I am a vampire",
+    "imageUrl": "/Keno.jpg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "not Varlha",
+    "title": "I am an castle",
+    "imageUrl": "/Scarlet.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "not Luna",
+    "title": "I am an castle",
+    "imageUrl": "/Scarlet.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "not Dusk",
+    "title": "I am an castle",
+    "imageUrl": "/Scarlet.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+   {
+    "name": "not Imina",
+    "title": "I am an school",
+    "imageUrl": "/Scarlet.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Koakuma",
+    "title": "I am a little devil",
+    "imageUrl": "/Koakuma.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Reisen",
+    "title": "I am a moon rabbit",
+    "imageUrl": "/ReisenU.jpeg",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Futal",
+    "title": "I am a group",
+    "imageUrl": "/Scarlet.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Reimu",
+    "title": "I am a shrine maiden",
+    "imageUrl": "/ReimuH.jpg",
+    "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   }
 ]
