@@ -35,9 +35,9 @@
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
   {
-    "name": "Elfina",
-    "title": "I am a knight",
-    "imageUrl": "/Elfina.png",
+    "name": "Elena",
+    "title": "I am a princess",
+    "imageUrl": "/Elena.png",
     "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
